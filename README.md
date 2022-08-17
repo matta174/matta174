@@ -1,6 +1,12 @@
 ### Hi there 👋, my name is Matthew Compton
-#### I am a software engineer at [Tesla](https://www.tesla.com/)
-![I am a software engineer at [Tesla](https://www.tesla.com/)](MattGit.png)
+#### I am a software engineer at [Capital One](https://www.capitalone.com/)
+![I am a software engineer at [Capital One](https://www.capitalone.com/)](MattGit.png)
+
+Previously worked at:
+
+- [Tesla](https://www.tesla.com/)
+
+- [Wolters Kluwer](https://www.wolterskluwer.com/)
 
 Skills: C# / SQL / Python / Java
 
